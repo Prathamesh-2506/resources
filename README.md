@@ -1,4 +1,36 @@
-<body>
+ <h1>Backend engineering</h1>
+ 
+ <section class="category">
+        <ul>
+            <li>
+                <a href="https://youtu.be/0Rwb4Xmlcwc"
+                   target="_blank" rel="noopener noreferrer">
+                    Roadmap for backend from first principles
+                </a>
+            </li>
+          <li>
+                <a href="https://youtu.be/XvFmUE-36Kc"
+                   target="_blank" rel="noopener noreferrer">
+                    api design and architecture
+                </a>
+            </li>
+          <li>
+                <a href="https://youtu.be/oVfw8Oj-uH8"
+                   target="_blank" rel="noopener noreferrer">
+                    backend software engineer mind map
+                </a>
+            </li>
+          <li>
+                <a href="https://youtu.be/_itqpLVS660"
+                   target="_blank" rel="noopener noreferrer">
+                    adv. backend + ai
+                </a>
+            </li>
+        </ul>
+    </section>
+
+
+---
 
   <h1>DevOps Interview Preparation Resources</h1>
     <p style="text-align:center;">
@@ -132,6 +164,3 @@
             </li>
         </ul>
     </section>
-
-</body>
-</html>
